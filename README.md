@@ -6,10 +6,10 @@ Go straight to the [Indicators to add your comments &raquo;](https://github.com/
 
 We welcome feedback on the data quality tests run against IATI-XML data as part of the Aid Transparency Index.
 
-This consultation runs until **28th September**. We will confirm the final tests that will be used in the 2016 Index shortly thereafter.
+This consultation runs until **30th September**. We will confirm the final tests that will be used in the 2016 Aid Transparency Index shortly thereafter.
 
 We are using Github Issues to record:
-* the most recent tests used (in the 2014 Index or the 2015 Reviews);
+* the most recent tests used (in the 2014 Aid Transparency Index or the 2015 Aid Transparency Reviews);
 * the initial ideas on improvements we are considering;
 * any feedback from the public consultation process.
 
