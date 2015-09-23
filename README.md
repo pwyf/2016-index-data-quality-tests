@@ -1,4 +1,4 @@
-Consultation on 2016 Aid Transparency Index
+Consultation on data quality tests for the 2016 Aid Transparency Index
 ===========================================
 
 Go straight to the [Indicators to add your comments &raquo;](https://github.com/pwyf/2016-index-data-quality-tests/issues)
@@ -6,7 +6,7 @@ Go straight to the [Indicators to add your comments &raquo;](https://github.com/
 
 We welcome feedback on the data quality tests run against IATI-XML data as part of the Aid Transparency Index.
 
-This consultation runs until **30th September**. We will confirm the final tests that will be used in the 2016 Aid Transparency Index shortly thereafter.
+This consultation runs until **30th September**. We will confirm the final tests that will be used in 2016 shortly thereafter.
 
 We are using Github Issues to record:
 * the most recent tests used (in the 2014 Aid Transparency Index or the 2015 Aid Transparency Reviews);
@@ -15,7 +15,7 @@ We are using Github Issues to record:
 
 If you have any comments on the tests for each indicator, please add them under the relevant [issue](https://github.com/pwyf/2016-index-data-quality-tests/issues).
 
-Please note that we will retain all 39 indicators used in the 2013 Index. No new indicators will be added in 2016.
+Please note that this consultation is only on data quality tests used for IATI-XML data and not on the Index indicators or the overall methodology. All 39 indicators used in the Aid Transparency Index will be retained.
 
 Commenting on indicators
 ========================
